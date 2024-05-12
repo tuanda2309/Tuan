@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\visual studio\NGUYENQUOCDUY\QuanLiSach\main.cpp(22,20): warning C4101: 'dem': unreferenced local variable
+D:\visual studio\NGUYENQUOCDUY\QuanLiSach\main.cpp(147,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  sach.cpp
+  sachGiaoKhoa.cpp
+  sachThamKhao.cpp
+  Generating Code...
+  QuanLiSach.vcxproj -> D:\visual studio\NGUYENQUOCDUY\x64\Debug\QuanLiSach.exe
