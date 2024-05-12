@@ -1,0 +1,4 @@
+﻿  FractionMain.cpp
+D:\OPP\HTDuyHoanHoaTruong\Chuong4Fraction\FractionMain.cpp(10,20): warning C4101: 'denominator': unreferenced local variable
+D:\OPP\HTDuyHoanHoaTruong\Chuong4Fraction\FractionMain.cpp(10,9): warning C4101: 'numerator': unreferenced local variable
+  Chuong4Fraction.vcxproj -> D:\OPP\HTDuyHoanHoaTruong\x64\Debug\Chuong4Fraction.exe
